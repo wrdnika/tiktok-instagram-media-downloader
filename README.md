@@ -150,11 +150,6 @@ Sebelum menjalankan project ini secara lokal, pastikan sudah terinstall:
 
 ---
 
-## Lisensi
-
-Licensi MIT © \[Nama Anda atau Organisasi]
-Silakan cek [LICENSE](./LICENSE) untuk detail.
-
 ---
 
 ```
